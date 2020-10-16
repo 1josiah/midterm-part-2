@@ -1,0 +1,19 @@
+
+h1 {
+  color: lightslategray;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+hr {
+  color: black;
+}
